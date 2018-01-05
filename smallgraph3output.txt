@@ -1,0 +1,18 @@
+Vertex: 1 has color: red
+Vertex: 2 has color: blue
+Vertex: 5 has color: blue
+Vertex: 10 has color: blue
+Vertex: 9 has color: red
+Vertex: 8 has color: blue
+Vertex: 3 has color: red
+Vertex: 4 has color: red
+Vertex: 6 has color: red
+Vertex: 7 has color: blue
+Vertex: 11 has color: red
+Vertex: 12 has color: blue
+Vertex: 13 has color: blue
+
+The Graph is not 2 Colorable
+
+Here is the odd cycle of the Graph with size:3
+11,13,12
